@@ -1,2 +1,2 @@
 # Java-BedenKitleIndeksi
-Java Beden Kitle Indeksi Hesaplama
+Java Dersleri Beden Kitle Indeksi Hesaplama
